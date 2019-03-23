@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="#222222"
+    >
+
+
+    <LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    >
+    <Button
+        android:id="@+id/oneone"
+        android:text="One,One"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+
+    <Button
+        android:id="@+id/onetwo"
+        android:text="One,Two"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1.5"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+
+    <Button
+        android:id="@+id/onethree"
+        android:text="One,Three"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+    <Button
+        android:id="@+id/onefour"
+        android:text="One,Four"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+
+</LinearLayout>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    >
+    <Button
+        android:id="@+id/twoone"
+        android:text="Two,One"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+
+    <Button
+        android:id="@+id/twotwo"
+        android:text="Two,Two"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1.5"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+
+    <Button
+        android:id="@+id/twothree"
+        android:text="Two,Three"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+
+    <Button
+        android:id="@+id/twofour"
+        android:text="Two,Four"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+
+</LinearLayout>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    >
+    <Button
+        android:id="@+id/threeone"
+        android:text="Three,One"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+
+    <Button
+        android:id="@+id/threetwo"
+        android:text="Three,Two"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+
+    <Button
+        android:id="@+id/threethree"
+        android:text="Three,Three"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+    <Button
+        android:id="@+id/threefour"
+        android:text="Three,Four"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+</LinearLayout>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    >
+    <Button
+        android:id="@+id/fourone"
+        android:text="Four,One"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+    <Button
+        android:id="@+id/fourtwo"
+        android:text="Four,Two"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1.5"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+    <Button
+        android:id="@+id/fourthree"
+        android:text="Four,Three"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+    <Button
+        android:id="@+id/fourfour"
+        android:text="Four,Four"
+        android:textSize="20sp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/btn_all_shape"
+        android:textColor="#cccccc"
+        />
+</LinearLayout>
+
+</LinearLayout>
