@@ -1,5 +1,5 @@
-##实验二——Android布局实验
-*主页面跳转
+## 实验二——Android布局实验
+* 主页面跳转
 ```MainActivity.java
 package com.example.cy5962.layoutdemp;
 
@@ -53,10 +53,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 ![仿真机截图](https://img-blog.csdnimg.cn/20190323105740681.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JlbHRv,size_16,color_FFFFFF,t_70)
 
-###项目一：利用线性布局实现
-*用属性orientation控制控件的排列方向：vertical表示垂直显示，horizontal表示水平显示
-*利用layout_weight属性通过比例调整布局中所有控件大小
-*用sharp属性统一设定button的背景颜色和边框颜色
+### 项目一：利用线性布局实现
+* 用属性orientation控制控件的排列方向：vertical表示垂直显示，horizontal表示水平显示
+* 利用layout_weight属性通过比例调整布局中所有控件大小
+* 用sharp属性统一设定button的背景颜色和边框颜色
 ![](https://img-blog.csdnimg.cn/20190319212155997.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JlbHRv,size_16,color_FFFFFF,t_70)
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -287,7 +287,7 @@ public class MainActivity extends AppCompatActivity {
 </LinearLayout>
 ```
 
-###项目二：利用ConstraintLayout实现
+### 项目二：利用ConstraintLayout实现
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -416,7 +416,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ![仿真机截图](https://img-blog.csdnimg.cn/20190319212304409.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JlbHRv,size_16,color_FFFFFF,t_70)
 
-###项目三：利用表格布局实现
+### 项目三：利用表格布局实现
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
