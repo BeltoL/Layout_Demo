@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
 </shape>
 ```
 
-![仿真机截图](https://img-blog.csdnimg.cn/20190319212226391.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JlbHRv,size_16,color_FFFFFF,t_70)
+![仿真机截图](https://img-blog.csdnimg.cn/20190323110819131.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JlbHRv,size_16,color_FFFFFF,t_70)
 ```linearlayout.xml
 <?xml version="1.0" encoding="utf-8"?>
 
